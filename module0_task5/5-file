@@ -1,5 +1,5 @@
 #!/bin/bash
 #echo "Hello Devops" > "\\*\\\\'\"DevOps\"\\'\\\\*\$\\?\\*\\*\\*\\*\\*:)"
 #echo "Hello Devops" > "\*\\\\'\"DevOps\"\'\\*\$\?\*\*\*\*\*:)"
-printf "Hello Devops\n" > \\\*\\\\\'\"DevOps\"\\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
+printf "Hello Devops\n\n" > \\\*\\\\\'\"DevOps\"\\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
 
